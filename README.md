@@ -1,2 +1,2 @@
 # SE100: Assignments
-A repository for the first Assignment under the SE100 course
+A repository for all the assignments completed under the SE100 course
